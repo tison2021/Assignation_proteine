@@ -1,0 +1,12 @@
+name: projet_assignation
+channels:
+    - defaults
+    - bioconda
+    - conda-forge
+    - schrodinger
+dependencies:
+    - numpy=1.23.1
+    - matplotlib=3.5.3
+    - pymol=2.5.4
+    - biopython=1.79
+    
